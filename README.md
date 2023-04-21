@@ -6,4 +6,4 @@
 - 💬 Ask me about HTML, CSS or Javascript 😉
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to dance! 🕺💃
+- ⚡ Fun fact: I love to cook, I love to dance! 🕺💃
