@@ -1,4 +1,4 @@
-[!Bammer]()
+![Bammer](https://github.com/sunga12/sunga12/blob/521898147d093069b5f15a619fd45da511de6b87/Sunga%20Thawethe.png)
 
 # 💫 About Me:
 - 🔭 I’m currently working on building my Portfolio 😎📖<br>
