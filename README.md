@@ -7,7 +7,7 @@
 - 💬 Ask me about Javascript 😉<br>
 - 📫 How to reach me: LinkedIn<br>
 - 😄 Pronouns: He/Him<br>
-- ⚡ Fun fact: I love to cook, I love to dance! 🕺💃
+- ⚡ Fun fact: I love to cook & I love to dance! 🕺💃
 
 
 ## 🌐 Socials:
@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sunga12&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunga12&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Be Inspired
+### ✍️ Be Inspired before you go 😉
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
