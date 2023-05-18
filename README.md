@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on building my Portfolio 😎📖<br>
-- 🌱 I’m currently learning Front End Development 💻<br> 
+- 🌱 I’m currently learning Front-End Development 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
 - 💬 Ask me about Javascript 😉<br>
 - 📫 How to reach me: LinkedIn<br>
