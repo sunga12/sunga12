@@ -1,4 +1,5 @@
-![Bammer](https://github.com/sunga12/sunga12/blob/521898147d093069b5f15a619fd45da511de6b87/Sunga%20Thawethe.png)
+![Sunga Thawethe (2)](https://github.com/sunga12/sunga12/assets/117270680/4fc555b5-7ae3-465d-bbc7-f0edec9ffab1)
+
 
 # 💫 About Me:
 - 🔭 I’m currently working on building my Portfolio 😎📖<br>
