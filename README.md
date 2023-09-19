@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on blog App with RoR! 😎📖<br>
+- 🔭 I’m currently working on a Blog app with RoR! 😎📖<br>
 - 🌱 I’m currently learning Back-End Development 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
 - 💬 Ask me about Ruby! 😉<br>
