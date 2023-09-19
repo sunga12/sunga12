@@ -2,13 +2,13 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on building my Portfolio 😎📖<br>
+- 🔭 I’m currently working on blog App with RoR! 😎📖<br>
 - 🌱 I’m currently learning Back-End Development 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
-- 💬 Ask me about React.js! 😉<br>
+- 💬 Ask me about Ruby! 😉<br>
 - 📫 How to reach me: LinkedIn<br>
 - 😄 Pronouns: He/Him<br>
-- ⚡ Fun fact: I love to cook & I love to dance! 🕺💃
+- ⚡ Fun fact: I love Poetry & dance! 🕺💃
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungabanja-thawethe)
