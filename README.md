@@ -1,16 +1,14 @@
 ![Sunga Thawethe (2)](https://github.com/sunga12/sunga12/assets/117270680/4fc555b5-7ae3-465d-bbc7-f0edec9ffab1)
 
-
-<h1 align="center">Hi 👋, I'm Sunga</h1>
 <h3 align="center">A passionate Full-Stack Developer with a love for clean and robust code. I deliver exceptional user experiences. Want to connect or Need help? Get in touch below!</h3>
 
 <br>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [a Blog App](https://github.com/sunga12/New-Blog-App) with RoR! 😎📖<br>
+- 🔭 I’m currently working on a Bakery Website with React & RoR! 😎📖<br>
 - 🌱 I’m currently learning Back-End Development 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
-- 💬 Ask me about Ruby! 😉<br>
+- 💬 Ask me about Rails or React! 😉<br>
 - 📫 How to reach me: LinkedIn<be>
 - 📄 Check out My Resume [Here](https://docs.google.com/document/d/1w6tg-esOivXjZ0izzSLLaS1Tf7EvQyjDWNKVFFEPppk/edit?usp=sharing)
 - 😄 Pronouns: He/Him<br>
