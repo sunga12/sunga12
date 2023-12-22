@@ -6,9 +6,9 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on a Bakery Website with React & RoR! 😎📖<br>
-- 🌱 I’m currently learning Back-End Development 💻<br> 
+- 🌱 I’m currently learning Node.js 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
-- 💬 Ask me about Rails or React! 😉<br>
+- 💬 Ask me about Ruby on Rails or React! 😉<br>
 - 📫 How to reach me: LinkedIn<be>
 - 📄 Check out My Resume [Here](https://docs.google.com/document/d/1w6tg-esOivXjZ0izzSLLaS1Tf7EvQyjDWNKVFFEPppk/edit?usp=sharing)
 - 😄 Pronouns: He/Him<br>
@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunga12&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Be Inspired before you go 😉
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sunga12&icon=1&color=0)](https://visitcount.itsvg.in)
