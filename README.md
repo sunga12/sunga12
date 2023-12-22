@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunga12&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Be Inspired before you go 😉
-<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sunga12&icon=1&color=0)](https://visitcount.itsvg.in)
