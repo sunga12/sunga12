@@ -5,7 +5,7 @@
 <br>
 
 # 💫 About Me:
-- 🔭 I’m currently working on a Bakery Website with React & RoR! 😎📖<br>
+- 🔭 I’m currently working on a School Website with React & RoR! 😎📖<br>
 - 🌱 I’m currently learning Node.js 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
 - 💬 Ask me about Ruby on Rails or React! 😉<br>
