@@ -5,14 +5,14 @@
 <br>
 
 # 💫 About Me:
-- 🔭 I’m currently working on a School Website with React & RoR! 😎📖<br>
-- 🌱 I’m currently learning Node.js 💻<br> 
+- 🔭 I’m currently working on a Full Stack Web Based POS System with React & RoR! 😎📖<br>
+- 🌱 I’m currently learning Python 💻<br> 
 - 👯 I’m looking to learn more and collaborate more!<br>
 - 💬 Ask me about Ruby on Rails or React! 😉<br>
 - 📫 How to reach me: LinkedIn<be>
-- 📄 Check out My Resume [Here](https://docs.google.com/document/d/1w6tg-esOivXjZ0izzSLLaS1Tf7EvQyjDWNKVFFEPppk/edit?usp=sharing)
+- 📄 Check out My Resume [Here](https://docs.google.com/document/d/196DPW2bOYR2SRuXjXHVrImJPLWOUqH4H8rzPAo-4rIw/edit?usp=sharing)
 - 😄 Pronouns: He/Him<br>
-- ⚡ Fun fact: I love Poetry & dance! 🕺💃
+- ⚡ Fun fact: I love Poetry & Reading! 🕺💃
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungabanja-thawethe)
